@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1736505573">
+  <File Type="ROUTE-PWR" Name="decimal_to_bram_bram_rom_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="decimal_to_bram_bram_rom.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="decimal_to_bram_bram_rom_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="decimal_to_bram_bram_rom_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="decimal_to_bram_bram_rom_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="decimal_to_bram_bram_rom.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="decimal_to_bram_bram_rom_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="decimal_to_bram_bram_rom_opt.dcp"/>
+  <File Type="OPT-DRC" Name="decimal_to_bram_bram_rom_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="decimal_to_bram_bram_rom.hwdef"/>
+  <File Type="PWROPT-DCP" Name="decimal_to_bram_bram_rom_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="decimal_to_bram_bram_rom_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="decimal_to_bram_bram_rom_placed.dcp"/>
+  <File Type="PLACE-IO" Name="decimal_to_bram_bram_rom_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="decimal_to_bram_bram_rom_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="decimal_to_bram_bram_rom_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="decimal_to_bram_bram_rom_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="decimal_to_bram_bram_rom_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="decimal_to_bram_bram_rom_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="decimal_to_bram_bram_rom_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="decimal_to_bram_bram_rom.bin"/>
+  <File Type="PLACE-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="decimal_to_bram_bram_rom_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="decimal_to_bram_bram_rom_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="decimal_to_bram_bram_rom_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="decimal_to_bram_bram_rom.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="decimal_to_bram_bram_rom_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="decimal_to_bram_bram_rom_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="decimal_to_bram_bram_rom.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="decimal_to_bram_bram_rom_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="decimal_to_bram_bram_rom_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="decimal_to_bram_bram_rom_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="decimal_to_bram_bram_rom_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="decimal_to_bram_bram_rom_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="decimal_to_bram_bram_rom_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="decimal_to_bram_bram_rom_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="decimal_to_bram_bram_rom_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="decimal_to_bram_bram_rom_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="decimal_to_bram_bram_rom_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="decimal_to_bram_bram_rom_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="decimal_to_bram_bram_rom_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="decimal_to_bram_bram_rom_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="decimal_to_bram_bram_rom_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="decimal_to_bram_bram_rom_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="decimal_to_bram_bram_rom_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="decimal_to_bram_bram_rom_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="decimal_to_bram_bram_rom_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="decimal_to_bram_bram_rom_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="decimal_to_bram_bram_rom_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="decimal_to_bram_bram_rom_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="decimal_to_bram_bram_rom_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="decimal_to_bram_bram_rom_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="decimal_to_bram_bram_rom_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="decimal_to_bram_bram_rom_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="decimal_to_bram_bram_rom_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="decimal_to_bram_bram_rom.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="decimal_to_bram_bram_rom_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="decimal_to_bram_bram_rom_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="decimal_to_bram_bram_rom.nky"/>
+  <File Type="BITSTR-BMM" Name="decimal_to_bram_bram_rom_bd.bmm"/>
+  <File Type="PDI-FILE" Name="decimal_to_bram_bram_rom.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="decimal_to_bram_bram_rom_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="decimal_to_bram_bram_rom_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="decimal_to_bram_bram_rom.rcfi"/>
+  <File Type="CFI_FILE" Name="decimal_to_bram_bram_rom.cfi"/>
+  <File Type="RNPI_FILE" Name="decimal_to_bram_bram_rom.rnpi"/>
+  <File Type="NPI_FILE" Name="decimal_to_bram_bram_rom.npi"/>
+  <File Type="RBD_FILE" Name="decimal_to_bram_bram_rom.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="decimal_to_bram_bram_rom.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="decimal_to_bram_bram_rom.sysdef"/>
+  <File Type="BG-BGN" Name="decimal_to_bram_bram_rom.bgn"/>
+  <File Type="BG-DRC" Name="decimal_to_bram_bram_rom.drc"/>
+  <File Type="RDI-RDI" Name="decimal_to_bram_bram_rom.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="decimal_to_bram_bram_rom_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="decimal_to_bram_bram_rom_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/bram_ex.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fpu_adder.v">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="decimal_to_bram_bram_rom"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/adder.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
