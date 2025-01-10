@@ -17,7 +17,7 @@ module decimal_to_bram_bram_rom
 
 	always @*
 	case (addr_reg)
-		0'd0: data_out = 12'b01000010100000100111010111000010;
+		0'd0: data_out = 12'b01010000100010100010110110001110;
 		default: data_out = 12'b000000000000;
 	endcase
 endmodule
